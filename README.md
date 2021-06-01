@@ -4,8 +4,9 @@
  - Lab 1 is graded and submission is compulsory.
  - Code has to be done in MATLAB.
  - Clone this repository in your local machine.
- - <strong> Do not commit after the deadline </strong>.
- - Proper documentation is expected on how to run the files and explanation of the code or any theory questions (if given).
+ - <strong> Commit after the deadline will not be considered </strong>.
+ - Code with proper comments should be submitted.
+ - The conclusion from your code should be written at the end of the script file (as comments) 
  - Whenever using plot function, label the axes and plot properly.
  - Save the plots in the <strong> Result </strong> folder and code file inside <strong> Code </strong> folder.
  - All the plots should be submitted in .png format.
